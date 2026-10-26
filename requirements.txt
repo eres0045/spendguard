@@ -1,0 +1,5 @@
+flask
+requests
+python-dotenv
+channel3-sdk
+pytest
