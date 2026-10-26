@@ -1,5 +1,6 @@
 flask
 requests
+httpx
 python-dotenv
 channel3-sdk
 pytest
